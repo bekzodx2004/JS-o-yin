@@ -1,0 +1,39 @@
+.timer{
+    display: flex;
+    margin: auto;
+    width: 100px;
+    border: 1px solid #000;
+    padding-left: 20px;
+    font-size: 25px;
+    
+}
+#boshla{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.maydon{
+    margin-top: 50px;
+    position: relative;
+    height: 70vh;
+}
+
+#circle{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    display: none;
+}
+
+#natija{
+    text-align: center;
+    
+}
+.r{
+    color: red;
+    position: absolute;
+    font-size: 15px;
+    width: 200px;
+}
